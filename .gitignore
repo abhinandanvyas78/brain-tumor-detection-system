@@ -1,0 +1,38 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Variables
+.env
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Build Files
+build/
+dist/
+
+# Node Modules
+node_modules/
+
+# Tensorflow / PyTorch Models
+*.h5
+*.pt
+*.pth
+*.ckpt
+
+# Logs
+*.log
+
+# System Files
+.DS_Store
+Thumbs.db
+
